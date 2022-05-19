@@ -1,0 +1,2 @@
+# Python-Project
+The application is basically for the catering service provider and for those people who want to take catering service. The application provides a full developed software where admin perform the basic tasks such as manage grocery details, employee details and billing details. The objectives of this project are to make it more efficient to admin, flexible for all members &amp; usability is user friendly
